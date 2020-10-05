@@ -58,6 +58,4 @@ $ git checkout master # Here we have our Ruby on Rails files.
 
 Replace DB variables (and others required) taking into account the MM Docker env variables
 
-Install dependences:
-
-$ bundle install
+Install dependencies: Included (bundle install) in the Dockerfile of the service ruby in mm-docker

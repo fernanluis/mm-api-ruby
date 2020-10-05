@@ -1,5 +1,6 @@
-# Created by https://www.toptal.com/developers/gitignore/api/git,rails,ruby
-# Edit at https://www.toptal.com/developers/gitignore?templates=git,rails,ruby
+
+# Created by https://www.toptal.com/developers/gitignore/api/rails,ruby,git
+# Edit at https://www.toptal.com/developers/gitignore?templates=rails,ruby,git
 
 ### Git ###
 # Created by git for backups. To disable backups in Git:
@@ -140,6 +141,7 @@ build-iPhoneSimulator/
 # Used by RuboCop. Remote config files pulled in from inherit_from directive.
 # .rubocop-https?--*
 
-# End of https://www.toptal.com/developers/gitignore/api/git,rails,ruby
+# End of https://www.toptal.com/developers/gitignore/api/rails,ruby,git
+
 
 # https://stackoverflow.com/questions/1139762/ignore-files-that-have-already-been-committed-to-a-git-repository/1139797#1139797
